@@ -2,8 +2,10 @@
     background-color: #353A40;
 }
 
-.font-green {
-    color: green;
+.btn-carousel-green {
+    background-color: #26A944;
+    border-color: #26A944;
+    color: white !important;
 }
 
 .text-right{
@@ -12,4 +14,24 @@
 
 .container-text-img{
     
+}
+
+.ph {
+    font-size: 1.2em;
+}
+
+.ph-textarea {
+    font-size: 1.6em;
+}
+
+.btn-form {
+    background-color: #96C93E;
+    color: white;
+    border-color: #96C93E;
+    transition: 1s;
+}
+
+.bg-footer {
+    background-color: #1C3846;
+    color: white;
 }
